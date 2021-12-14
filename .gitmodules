@@ -1,3 +1,6 @@
 [submodule "MYFILE1"]
 	path = MYFILE1
 	url = https://github.com/HoussemDellai/WebAppWithDatabaseDemo.git
+[submodule "myfile"]
+	path = myfile
+	url = git@github.com:HoussemDellai/WebAppWithDatabaseDemo.git
